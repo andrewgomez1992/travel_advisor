@@ -7,3 +7,5 @@ const Map = () => {
 }
 
 export default Map;
+
+// http://openweathermap.org/img/w/${data.weather[0].icon}.png
